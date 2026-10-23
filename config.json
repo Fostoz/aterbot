@@ -1,14 +1,14 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
-		"username": "Please enter the bot's username you want"
+		"host": "AfterMadrase.aternos.me",
+		"port": :63986,
+		"username": "Omak"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
 	"logLevel": ["error", "log", "debug"],
 	"action": {
-		"commands": ["forward", "back", "left", "right", "jump"],
+		"commands": [],
 		"holdDuration": 5000,
 		"retryDelay": 15000
 	}
